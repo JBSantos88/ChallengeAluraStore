@@ -36,8 +36,9 @@ O projeto está implementado em um único notebook:
 ## 🚀 Como Executar
 
 1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/AluraStoreBr_Challenge.git
+   ```bash[
+   git clone https://github.com/JBSantos88/ChallengeAluraStore.git
+   
    cd AluraStoreBr_Challenge
    ```
 
