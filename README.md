@@ -16,7 +16,6 @@ Explorar e analisar os dados de uma rede de lojas fictícia com o intuito de apo
 
 - Python 3
 - Google Colab
-- Pandas
 - Matplotlib
 
 ## 📁 Organização do Projeto
